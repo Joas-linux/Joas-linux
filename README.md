@@ -1,4 +1,4 @@
-# Olá! Eu sou o Jos 🚀
+# Olá! Eu sou o Joás 🚀
 
 Sou estudante de **Segurança da Informação** (4º semestre) com foco em defesa cibernética, infraestrutura e administração de sistemas Linux. 
 
